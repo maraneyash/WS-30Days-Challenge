@@ -1,1 +1,1 @@
-# WS-30Days-Challenge
+30-Day Daily Programming Challenge
